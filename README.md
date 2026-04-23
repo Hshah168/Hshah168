@@ -2,8 +2,14 @@
 
 ![](https://komarev.com/ghpvc/?username=Hshah168)
 
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/shah-hetal/)
-[![Gmail](https://shields.io)](mailto:hetalshah5563@gmail.com)
+<p align="left">
+  <a href="https://linkedin.com">
+    <img src="https://shields.io" />
+  </a>
+  <a href="mailto:ENTER_YOUR_EMAIL_HERE@gmail.com">
+    <img src="https://shields.io" />
+  </a>
+</p>
 <!--
 **Hshah168/Hshah168** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
