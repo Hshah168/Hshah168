@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Hshah168)
 
-[![Linkedin Badge](https://www.linkedin.com/in/shah-hetal/)[![Gmail Badge](![Gmail](https://shields.io))](mailto:hetalshah5563@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-vyom--shah-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/shah-hetal/)[![Gmail Badge](![Gmail](https://shields.io))](mailto:hetalshah5563@gmail.com)
 <!--
 **Hshah168/Hshah168** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
